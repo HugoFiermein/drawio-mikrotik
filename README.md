@@ -7,8 +7,8 @@ TODO:
 - [x] RB3011UiAS-RM
 - [x] CSS326-24G-2S+RM
 - [x] RB2011UiAS-2HnD-IN
-- [x] hAP ac lite (RB952Ui-5ac2nD)
-- [x] cAP ac (RBcAPGi-5acD2nD)
+- [x] RB952Ui-5ac2nD (hAP ac lite)
+- [x] RBcAPGi-5acD2nD (cAP ac)
 - [x] RB962UiGS-5HacT2HnT (hAP ac)
 - [x] RBD52G-5HacD2HnD-TC (hAP ac²)
 - [x] RB750Gr3 (hEX)
