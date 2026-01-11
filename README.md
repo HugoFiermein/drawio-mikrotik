@@ -14,4 +14,30 @@ TODO:
 - [x] RB750Gr3 (hEX)
 - [x] RB760iGS (hEX S)
 - [x] CCR1009-7G-1C-1S+
+- [ ] RB2011iL-IN
+- [ ] RB2011iL-RM
+- [ ] RB2011iLS-IN
+- [ ] RB2011UiAS-IN
+- [ ] RB2011UiAS-RM
+- [ ] RB1100AHx2-LM
+- [ ] RB1200
+- [ ] RB1100AHx2
+- [ ] RB1100AH
+- [ ] RB1100Hx2
+- [ ] CCR1009-8G-1S
+- [ ] CCR1009-8G-1S-PC
+- [ ] CCR1009-7G-1C-PC
+- [ ] CCR1009-8G-1S-1S+
+- [ ] CCR1009-8G-1S-1S+PC
+- [ ] CCR1009-7G-1C-1S+PC
+- [ ] CCR1016-12G
+- [ ] CCR1016-12S-1S+
+- [ ] CCR1036-12G-4S
+- [ ] CCR1036-8G-2S+
+- [ ] CCR1036-12G-4S-EM
+- [ ] CCR1036-8G-2S+EM
+- [ ] CCR1072-1G-8S+
+- [ ] RB1100
+- [ ] RB1000
+- [ ] RB1000U
 - [ ] ?
