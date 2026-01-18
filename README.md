@@ -1,19 +1,22 @@
 # drawio-mikrotik
+Announcement:
+No more raster models! I will only be making vector models for Mikrotik, and all raster models will be removed from the main branch. You can find vector models in the .xml file or by checking the releases.
 Library with Mikrotik models for the draw.io application (diagrams.net)
 <img width="1343" height="787" alt="mikrotik_demo" src="https://github.com/user-attachments/assets/9699df89-81b6-478d-b4fc-5045ebb04892" />
 
 TODO:
 - [x] CSS326-24G-2S+RM
-- [x] RB3011UiAS-RM
-- [x] CSS326-24G-2S+RM
 - [x] RB2011UiAS-2HnD-IN
-- [x] RB952Ui-5ac2nD (hAP ac lite)
-- [x] RBcAPGi-5acD2nD (cAP ac)
-- [x] RB962UiGS-5HacT2HnT (hAP ac)
-- [x] RBD52G-5HacD2HnD-TC (hAP ac²)
-- [x] RB750Gr3 (hEX)
-- [x] RB760iGS (hEX S)
-- [x] CCR1009-7G-1C-1S+
+- [x] RB951Ui-2HnD
+- [ ] RB3011UiAS-RM
+- [ ] CSS326-24G-2S+RM
+- [ ] RB952Ui-5ac2nD (hAP ac lite)
+- [ ] RBcAPGi-5acD2nD (cAP ac)
+- [ ] RB962UiGS-5HacT2HnT (hAP ac)
+- [ ] RBD52G-5HacD2HnD-TC (hAP ac²)
+- [ ] RB750Gr3 (hEX)
+- [ ] RB760iGS (hEX S)
+- [ ] CCR1009-7G-1C-1S+
 - [ ] RB2011iL-IN
 - [ ] RB2011iL-RM
 - [ ] RB2011iLS-IN
