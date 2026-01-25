@@ -3,7 +3,8 @@ Announcement:
 No more raster models! I will only create vector models for Mikrotik, and all raster models will be removed from the main branch. You can find vector models in the vector-hq folder in the .xml file or in the list of releases. Due to the creation of vector models, progress is noticeably slowing down, and the creation of new models may take longer.
 
 ### **Library with Mikrotik models for the draw.io application (diagrams.net)**
-<img width="1343" height="787" alt="mikrotik_demo" src="https://github.com/user-attachments/assets/9699df89-81b6-478d-b4fc-5045ebb04892" />
+<img width="1432" height="737" alt="{9C45C0AC-9D31-41F1-ADF9-2F3D55120FC3}" src="https://github.com/user-attachments/assets/d65daaa8-cb1c-4672-a019-65bc52a37529" />
+
 
 TODO:
 - [x] CSS326-24G-2S+RM
