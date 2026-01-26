@@ -12,6 +12,7 @@ TODO:
 - [x] RB951Ui-2HnD
 - [x] CCR1009-8G-1S
 - [x] CCR1009-8G-1S-PC
+- [x] CCR1009-8G-1S-1S+
 - [ ] RB3011UiAS-RM
 - [ ] CSS326-24G-2S+RM
 - [ ] RB952Ui-5ac2nD (hAP ac lite)
@@ -32,7 +33,6 @@ TODO:
 - [ ] RB1100AH
 - [ ] RB1100Hx2
 - [ ] CCR1009-7G-1C-PC
-- [ ] CCR1009-8G-1S-1S+
 - [ ] CCR1009-8G-1S-1S+PC
 - [ ] CCR1009-7G-1C-1S+PC
 - [ ] CCR1016-12G
