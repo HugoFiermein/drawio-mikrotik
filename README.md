@@ -16,7 +16,7 @@ TODO:
 - [x] RB3011UiAS-RM  -  Coming soon in v1.5
 - [x] RB952Ui-5ac2nD (hAP ac lite)  -  Coming soon in v1.5
 - [x] RBcAPGi-5acD2nD (cAP ac)  -  Coming soon in v1.5
-- [ ] RB962UiGS-5HacT2HnT (hAP ac)
+- [x] RB962UiGS-5HacT2HnT (hAP ac)  -  Coming soon in v1.5
 - [ ] RBD52G-5HacD2HnD-TC (hAP ac²)
 - [ ] RB750Gr3 (hEX)
 - [ ] RB760iGS (hEX S)
