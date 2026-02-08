@@ -13,9 +13,9 @@ TODO:
 - [x] CCR1009-8G-1S
 - [x] CCR1009-8G-1S-PC
 - [x] CCR1009-8G-1S-1S+
-- [x] RB3011UiAS-RM
-- [x] RB952Ui-5ac2nD (hAP ac lite)
-- [ ] RBcAPGi-5acD2nD (cAP ac)
+- [x] RB3011UiAS-RM  -  Coming soon in v1.5
+- [x] RB952Ui-5ac2nD (hAP ac lite)  -  Coming soon in v1.5
+- [x] RBcAPGi-5acD2nD (cAP ac)  -  Coming soon in v1.5
 - [ ] RB962UiGS-5HacT2HnT (hAP ac)
 - [ ] RBD52G-5HacD2HnD-TC (hAP ac²)
 - [ ] RB750Gr3 (hEX)
