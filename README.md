@@ -19,6 +19,7 @@ TODO:
 - [x] RB962UiGS-5HacT2HnT (hAP ac)  -  Coming soon in v1.5
 - [X] RBD52G-5HacD2HnD-TC (hAP ac²)  -  Coming soon in v1.5
 - [X] RB2011iL-IN  -  Coming soon in v1.5
+- [X] RB1100  -  Coming soon in v1.5
 - [ ] RB750Gr3 (hEX)
 - [ ] RB760iGS (hEX S)
 - [ ] CCR1009-7G-1C-1S+
@@ -41,7 +42,6 @@ TODO:
 - [ ] CCR1036-12G-4S-EM
 - [ ] CCR1036-8G-2S+EM
 - [ ] CCR1072-1G-8S+
-- [ ] RB1100
 - [ ] RB1000
 - [ ] RB1000U
 - [ ] ?
