@@ -17,11 +17,11 @@ TODO:
 - [x] RB952Ui-5ac2nD (hAP ac lite)  -  Coming soon in v1.5
 - [x] RBcAPGi-5acD2nD (cAP ac)  -  Coming soon in v1.5
 - [x] RB962UiGS-5HacT2HnT (hAP ac)  -  Coming soon in v1.5
-- [ ] RBD52G-5HacD2HnD-TC (hAP ac²)
+- [X] RBD52G-5HacD2HnD-TC (hAP ac²)  -  Coming soon in v1.5
+- [X] RB2011iL-IN  -  Coming soon in v1.5
 - [ ] RB750Gr3 (hEX)
 - [ ] RB760iGS (hEX S)
 - [ ] CCR1009-7G-1C-1S+
-- [ ] RB2011iL-IN
 - [ ] RB2011iL-RM
 - [ ] RB2011iLS-IN
 - [ ] RB2011UiAS-IN
