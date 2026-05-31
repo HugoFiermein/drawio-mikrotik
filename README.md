@@ -45,4 +45,15 @@ TODO:
 - [ ] CCR1072-1G-8S+
 - [ ] RB1000
 - [ ] RB1000U
+- [ ] RB250GS
+- [ ] FiberBox
+- [ ] CRS109-8G-1S-2HnD-IN
+- [ ] CRS112-8G-4S-IN
+- [ ] CRS125-24G-1S-IN
+- [ ] CRS125-24G-1S-RM
+- [ ] CRS212-1G-10S-1S+IN
+- [ ] CRS125-24G-1S-2HnD-IN
+- [ ] CRS210-8G-2S+IN
+- [ ] CRS226-24G-2S+IN
+- [ ] CRS226-24G-2S+RM
 - [ ] ?
