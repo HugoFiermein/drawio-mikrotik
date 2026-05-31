@@ -20,6 +20,7 @@ TODO:
 - [X] RBD52G-5HacD2HnD-TC (hAP ac²)  -  Coming soon in v1.5
 - [X] RB2011iL-IN  -  Coming soon in v1.5
 - [X] RB1100  -  Coming soon in v1.5
+- [X] RB1100AH  -  Coming soon in v1.5
 - [ ] RB750Gr3 (hEX)
 - [ ] RB760iGS (hEX S)
 - [ ] CCR1009-7G-1C-1S+
@@ -30,7 +31,6 @@ TODO:
 - [ ] RB1100AHx2-LM
 - [ ] RB1200
 - [ ] RB1100AHx2
-- [ ] RB1100AH
 - [ ] RB1100Hx2
 - [ ] CCR1009-7G-1C-PC
 - [ ] CCR1009-8G-1S-1S+PC
