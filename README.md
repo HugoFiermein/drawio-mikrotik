@@ -22,7 +22,7 @@ TODO:
 - [X] RB1100  -  Coming soon in v1.5
 - [X] RB1100AH  -  Coming soon in v1.5
 - [X] CRS326-24G-2S+RM  -  Coming soon in v1.5
-- [ ] RB750Gr3 (hEX)
+- [X] RB750Gr3 (hEX)  -  Coming soon in v1.5
 - [ ] RB760iGS (hEX S)
 - [ ] CCR1009-7G-1C-1S+
 - [ ] RB2011iL-RM
