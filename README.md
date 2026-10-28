@@ -24,17 +24,18 @@ TODO:
 - [X] CRS326-24G-2S+RM  -  Coming soon in v1.5
 - [X] RB750Gr3 (hEX)  -  Coming soon in v1.5
 - [X] RB941-2nD (hAP lite)  -  Coming soon in v1.5
-- [ ] RB760iGS (hEX S)
-- [ ] CCR1009-7G-1C-1S+
-- [ ] RB2011iL-RM
-- [ ] RB2011iLS-IN
-- [ ] RB2011UiAS-IN
-- [ ] RB2011UiAS-RM
-- [ ] RB1100AHx2-LM
-- [ ] RB1200
-- [ ] RB1100AHx2
-- [ ] RB1100Hx2
-- [ ] CCR1009-7G-1C-PC
+- [X] RB760iGS (hEX S)  -  Coming soon in v1.5
+- [X] CCR1009-7G-1C-1S+  -  Coming soon in v1.5
+- [X] FiberBox  -  Coming soon in v1.5
+- [X] RB2011iL-RM  -  Coming soon in v1.5
+- [X] RB2011iLS-IN  -  Coming soon in v1.5
+- [X] CCR1009-7G-1C-PC  -  Coming soon in v1.5
+- [X] RB2011UiAS-IN  -  Coming soon in v1.5
+- [X] RB2011UiAS-RM  -  Coming soon in v1.5
+- [X] RB1100AHx2-LM  -  Coming soon in v1.5
+- [X] RB1200  -  Coming soon in v1.5
+- [X] RB1100AHx2  -  Coming soon in v1.5
+- [ ] RB1100Hx2  -  Coming soon in v1.5
 - [ ] CCR1009-8G-1S-1S+PC
 - [ ] CCR1009-7G-1C-1S+PC
 - [ ] CCR1016-12G
@@ -47,7 +48,6 @@ TODO:
 - [ ] RB1000
 - [ ] RB1000U
 - [ ] RB250GS
-- [ ] FiberBox
 - [ ] CRS109-8G-1S-2HnD-IN
 - [ ] CRS112-8G-4S-IN
 - [ ] CRS125-24G-1S-IN
