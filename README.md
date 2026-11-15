@@ -1,37 +1,59 @@
-# drawio-mikrotik
+<h1 align="center">drawio-mikrotik</h1>
 
-**Vector MikroTik device library for [draw.io](https://www.drawio.com) (diagrams.net).**
+<p align="center">
+<b>Vector MikroTik device library for <a href="https://www.drawio.com">draw.io</a> (diagrams.net)</b><br>
+Front panels drawn by hand as clean SVG: real proportions, one scale, no raster images.
+</p>
 
-Front panels of MikroTik devices, drawn by hand as clean SVG: real proportions, every model to the same scale, no raster images. Drop them into network diagrams, rack layouts and documentation.
+<!-- badges:start -->
+<p align="center">
+<img alt="models: 45" src="https://img.shields.io/badge/models-45-2b6cb0">
+<img alt="categories: 8" src="https://img.shields.io/badge/categories-8-2b6cb0">
+<img alt="format: SVG, no raster" src="https://img.shields.io/badge/format-SVG%2C%20no%20raster-4a5568">
+<a href="LICENSE"><img alt="license: CC BY-SA 4.0" src="https://img.shields.io/badge/license-CC%20BY--SA%204.0-4a5568"></a>
+</p>
+<!-- badges:end -->
 
+<p align="center">
 <img width="1432" height="737" alt="Library preview" src="https://github.com/user-attachments/assets/d65daaa8-cb1c-4672-a019-65bc52a37529" />
+</p>
+
+<!-- note:start -->
+> [!NOTE]
+> This is the `dev` branch: a preview of the next release. Links on this page point to the files of this branch.
+<!-- note:end -->
+
+## Why this library
+
+- **Real vector.** Every device is drawn as shapes, not a photo wrapped in SVG: sharp at any zoom and only tens of kilobytes per model.
+- **One scale.** 1200 px = 210 mm (one 19″ 1U panel), so a hEX next to a CCR looks the way it does in a real rack.
+- **Drawn from the hardware.** Ports, LEDs, buttons and labels sit where they are on the actual panel.
+- **Split by category.** Load only the palettes you need.
 
 ## Install
 
 ### draw.io in the browser
 
-One click, all categories: [open draw.io with the MikroTik libraries](https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fmain%2Flibrary%2FMikroTik-60ghz.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fmain%2Flibrary%2FMikroTik-cloud-core-routers.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fmain%2Flibrary%2FMikroTik-indoor-wireless.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fmain%2Flibrary%2FMikroTik-iot.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fmain%2Flibrary%2FMikroTik-lte-5g.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fmain%2Flibrary%2FMikroTik-routerboard.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fmain%2Flibrary%2FMikroTik-routers.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fmain%2Flibrary%2FMikroTik-switches.xml)
-
-draw.io keeps the libraries in the sidebar on the next visit (until browser data is cleared).
+**[Open draw.io with the MikroTik libraries](https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-60ghz.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-cloud-core-routers.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-indoor-wireless.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-iot.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-lte-5g.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-routerboard.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-routers.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-switches.xml)**: one click, all categories. draw.io keeps them in the sidebar on the next visit (until browser data is cleared).
 
 ### draw.io desktop
 
-Click a category to download its library file:
+Click a category to get its library file:
 
 <!-- tiles:start -->
 <p align="center">
-<a href="https://github.com/HugoFiermein/drawio-mikrotik/releases/latest/download/MikroTik-cloud-core-routers.xml"><img src="docs/tiles/cloud-core-routers.svg" width="32%" alt="Cloud Core Routers: download MikroTik-cloud-core-routers.xml"></a>
-<a href="https://github.com/HugoFiermein/drawio-mikrotik/releases/latest/download/MikroTik-routers.xml"><img src="docs/tiles/routers.svg" width="32%" alt="Routers: download MikroTik-routers.xml"></a>
-<a href="https://github.com/HugoFiermein/drawio-mikrotik/releases/latest/download/MikroTik-switches.xml"><img src="docs/tiles/switches.svg" width="32%" alt="Switches: download MikroTik-switches.xml"></a>
+<a href="https://github.com/HugoFiermein/drawio-mikrotik/blob/dev/library/MikroTik-cloud-core-routers.xml"><img src="docs/tiles/cloud-core-routers.svg" width="32%" alt="Cloud Core Routers: download MikroTik-cloud-core-routers.xml"></a>
+<a href="https://github.com/HugoFiermein/drawio-mikrotik/blob/dev/library/MikroTik-routers.xml"><img src="docs/tiles/routers.svg" width="32%" alt="Routers: download MikroTik-routers.xml"></a>
+<a href="https://github.com/HugoFiermein/drawio-mikrotik/blob/dev/library/MikroTik-switches.xml"><img src="docs/tiles/switches.svg" width="32%" alt="Switches: download MikroTik-switches.xml"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HugoFiermein/drawio-mikrotik/releases/latest/download/MikroTik-indoor-wireless.xml"><img src="docs/tiles/indoor-wireless.svg" width="32%" alt="Indoor Wireless: download MikroTik-indoor-wireless.xml"></a>
-<a href="https://github.com/HugoFiermein/drawio-mikrotik/releases/latest/download/MikroTik-lte-5g.xml"><img src="docs/tiles/lte-5g.svg" width="32%" alt="LTE/5G: download MikroTik-lte-5g.xml"></a>
-<a href="https://github.com/HugoFiermein/drawio-mikrotik/releases/latest/download/MikroTik-iot.xml"><img src="docs/tiles/iot.svg" width="32%" alt="IoT: download MikroTik-iot.xml"></a>
+<a href="https://github.com/HugoFiermein/drawio-mikrotik/blob/dev/library/MikroTik-indoor-wireless.xml"><img src="docs/tiles/indoor-wireless.svg" width="32%" alt="Indoor Wireless: download MikroTik-indoor-wireless.xml"></a>
+<a href="https://github.com/HugoFiermein/drawio-mikrotik/blob/dev/library/MikroTik-lte-5g.xml"><img src="docs/tiles/lte-5g.svg" width="32%" alt="LTE/5G: download MikroTik-lte-5g.xml"></a>
+<a href="https://github.com/HugoFiermein/drawio-mikrotik/blob/dev/library/MikroTik-iot.xml"><img src="docs/tiles/iot.svg" width="32%" alt="IoT: download MikroTik-iot.xml"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HugoFiermein/drawio-mikrotik/releases/latest/download/MikroTik-60ghz.xml"><img src="docs/tiles/60ghz.svg" width="32%" alt="60 GHz: download MikroTik-60ghz.xml"></a>
-<a href="https://github.com/HugoFiermein/drawio-mikrotik/releases/latest/download/MikroTik-routerboard.xml"><img src="docs/tiles/routerboard.svg" width="32%" alt="RouterBOARD: download MikroTik-routerboard.xml"></a>
+<a href="https://github.com/HugoFiermein/drawio-mikrotik/blob/dev/library/MikroTik-60ghz.xml"><img src="docs/tiles/60ghz.svg" width="32%" alt="60 GHz: download MikroTik-60ghz.xml"></a>
+<a href="https://github.com/HugoFiermein/drawio-mikrotik/blob/dev/library/MikroTik-routerboard.xml"><img src="docs/tiles/routerboard.svg" width="32%" alt="RouterBOARD: download MikroTik-routerboard.xml"></a>
 </p>
 <!-- tiles:end -->
 
@@ -41,14 +63,15 @@ Click a category to download its library file:
 
 To update, download the files again, replace the old ones in the same folder and restart draw.io. To remove a palette, click the **×** in its header.
 
-Shapes are images with `editableCssRules`; colours can be tweaked via *Edit Style*. Scale: 1200 px = 210 mm (one 19″ 1U panel), so a hEX next to a CCR looks the way it does in a real rack.
+Shapes are images with `editableCssRules`; colours can be tweaked via *Edit Style*.
 
 ## Devices
 
 <!-- devices:start -->
-45 models in the library, 134 planned.
+**45 models** in 8 categories, 134 more planned. Click a category to open its list.
 
-### Cloud Core Routers
+<details>
+<summary><b>Cloud Core Routers</b> &nbsp;·&nbsp; 11</summary>
 
 | Model | Added |
 |---|---|
@@ -64,13 +87,12 @@ Shapes are images with `editableCssRules`; colours can be tweaked via *Edit Styl
 | CCR1036-12G-4S (plus old revision) | v1.5 |
 | CCR2216-1G-12XS-2XQ | v1.5 |
 
-<details><summary>Planned: 9</summary>
-
-CCR1036-8G-2S+, CCR1036-12G-4S-EM, CCR1036-8G-2S+EM, CCR1072-1G-8S+, CCR2004-16G-2S+, CCR2004-16G-2S+PC, CCR2004-1G-12S+2XS, CCR2004-1G-2XS-PCIe, CCR2116-12G-4S+
+Planned (9): CCR1036-8G-2S+, CCR1036-12G-4S-EM, CCR1036-8G-2S+EM, CCR1072-1G-8S+, CCR2004-16G-2S+, CCR2004-16G-2S+PC, CCR2004-1G-12S+2XS, CCR2004-1G-2XS-PCIe, CCR2116-12G-4S+
 
 </details>
 
-### Routers
+<details>
+<summary><b>Routers</b> &nbsp;·&nbsp; 17</summary>
 
 | Model | Added |
 |---|---|
@@ -92,13 +114,12 @@ CCR1036-8G-2S+, CCR1036-12G-4S-EM, CCR1036-8G-2S+EM, CCR1072-1G-8S+, CCR2004-16G
 | hEX S (RB760iGS) | v1.5 |
 | ROSE Data server (RDS2216-2XG-4S+4XS-2XQ, front and rear) | v1.5 |
 
-<details><summary>Planned: 13</summary>
-
-RB1000, RB1000U, RB1100AHx4, RB1100AHx4 Dude Edition, RB4011iGS+RM, RB5009UPr+S+IN, RB5009UPr+S+OUT, L009UiGS-RM, hEX lite, hEX PoE lite, hEX PoE, hEX refresh, PowerBox Pro
+Planned (13): RB1000, RB1000U, RB1100AHx4, RB1100AHx4 Dude Edition, RB4011iGS+RM, RB5009UPr+S+IN, RB5009UPr+S+OUT, L009UiGS-RM, hEX lite, hEX PoE lite, hEX PoE, hEX refresh, PowerBox Pro
 
 </details>
 
-### Indoor Wireless
+<details>
+<summary><b>Indoor Wireless</b> &nbsp;·&nbsp; 8</summary>
 
 | Model | Added |
 |---|---|
@@ -111,13 +132,12 @@ RB1000, RB1000U, RB1100AHx4, RB1100AHx4 Dude Edition, RB4011iGS+RM, RB5009UPr+S+
 | hAP ac2 (RBD52G-5HacD2HnD-TC) | v1.5 |
 | wAP ac (RBwAPG-5HacD2HnD) | v1.5 |
 
-<details><summary>Planned: 19</summary>
-
-hAP, hAP lite TC, hAP ac lite TC, hAP ac3, hAP ax lite, hAP ax S, hAP ax2, hAP ax3, hAP be lite, hAP be3 Media, cAP, cAP lite, cAP XL ac, cAP ax, mAP, mAP lite, wAP ax, L009UiGS-2HaxD-IN, RB4011iGS+5HacQ2HnD-IN
+Planned (19): hAP, hAP lite TC, hAP ac lite TC, hAP ac3, hAP ax lite, hAP ax S, hAP ax2, hAP ax3, hAP be lite, hAP be3 Media, cAP, cAP lite, cAP XL ac, cAP ax, mAP, mAP lite, wAP ax, L009UiGS-2HaxD-IN, RB4011iGS+5HacQ2HnD-IN
 
 </details>
 
-### Switches
+<details>
+<summary><b>Switches</b> &nbsp;·&nbsp; 4</summary>
 
 | Model | Added |
 |---|---|
@@ -126,62 +146,62 @@ hAP, hAP lite TC, hAP ac lite TC, hAP ac3, hAP ax lite, hAP ax S, hAP ax2, hAP a
 | CSS326-24G-2S+RM | v1.4.1 or earlier |
 | FiberBox (CRS105-5S-FB, front and inner panel) | v1.5 |
 
-<details><summary>Planned: 47</summary>
-
-RB250GS, RB260GS, RB260GSP, CRS106-1C-5S, CRS109-8G-1S-2HnD-IN, CRS112-8G-4S-IN, CRS112-8P-4S-IN, CRS125-24G-1S-IN, CRS125-24G-1S-RM, CRS125-24G-1S-2HnD-IN, CRS210-8G-2S+IN, CRS212-1G-10S-1S+IN, CRS226-24G-2S+IN, CRS226-24G-2S+RM, CRS304-4XG-IN, CRS305-1G-4S+IN, CRS309-1G-8S+IN, CRS310-1G-5S-4S+IN, CRS310-8G+2S+IN, CRS312-4C+8XG-RM, CRS320-8P-8B-4S+RM, CRS326-24G-2S+IN, CRS326-24S+2Q+RM, CRS326-4C+20G+2Q+RM, CRS328-24P-4S+RM, CRS328-4C-20S-4S+RM, CRS354-48G-4S+2Q+RM, CRS354-48P-4S+2Q+RM, CRS418-8P-8G-2S+RM, CRS418-8P-8G-2S+5axQ2axQ-RM, CRS504-4XQ-IN, CRS504-4XQ-OUT, CRS510-8XS-2XQ-IN, CRS518-16XS-2XQ-RM, CRS520-4XS-16XQ-RM, CRS804 DDQ, CRS812 DDQ, CSS318-16G-2S+IN, CSS610-8G-2S+IN, CSS610-8P-2S+IN, FiberBox Plus, netFiber 9, netPower 15FR, netPower 16P, netPower Lite 7R, netPower Lite 8P, GPERx6
+Planned (47): RB250GS, RB260GS, RB260GSP, CRS106-1C-5S, CRS109-8G-1S-2HnD-IN, CRS112-8G-4S-IN, CRS112-8P-4S-IN, CRS125-24G-1S-IN, CRS125-24G-1S-RM, CRS125-24G-1S-2HnD-IN, CRS210-8G-2S+IN, CRS212-1G-10S-1S+IN, CRS226-24G-2S+IN, CRS226-24G-2S+RM, CRS304-4XG-IN, CRS305-1G-4S+IN, CRS309-1G-8S+IN, CRS310-1G-5S-4S+IN, CRS310-8G+2S+IN, CRS312-4C+8XG-RM, CRS320-8P-8B-4S+RM, CRS326-24G-2S+IN, CRS326-24S+2Q+RM, CRS326-4C+20G+2Q+RM, CRS328-24P-4S+RM, CRS328-4C-20S-4S+RM, CRS354-48G-4S+2Q+RM, CRS354-48P-4S+2Q+RM, CRS418-8P-8G-2S+RM, CRS418-8P-8G-2S+5axQ2axQ-RM, CRS504-4XQ-IN, CRS504-4XQ-OUT, CRS510-8XS-2XQ-IN, CRS518-16XS-2XQ-RM, CRS520-4XS-16XQ-RM, CRS804 DDQ, CRS812 DDQ, CSS318-16G-2S+IN, CSS610-8G-2S+IN, CSS610-8P-2S+IN, FiberBox Plus, netFiber 9, netPower 15FR, netPower 16P, netPower Lite 7R, netPower Lite 8P, GPERx6
 
 </details>
 
-### LTE/5G
+<details>
+<summary><b>LTE/5G</b> &nbsp;·&nbsp; 2</summary>
 
 | Model | Added |
 |---|---|
 | Chateau LTE12 2025 (D53G-5HacD2HnD-TC&EG120K-EA) | v1.5 |
 | Chateau 5G R17 ax (S53UG+5HaxD2HaxD-TC&RG650E-EU) | v1.5 |
 
-<details><summary>Planned: 20</summary>
-
-Chateau LTE6-US, Chateau LTE7, Chateau LTE7 ax, Chateau LTE18 ax, Chateau PRO ax, cAP LTE12 ax, wAP R, wAP LTE kit, wAP ax LTE7 kit, LtAP mini, LtAP mini LTE kit, LtAP LTE7 kit, SXT LTE7 kit, SXTsq Embedded LTE4, SXTsq Embedded LTE4 Global, LHG LTE18 kit, LHGG LTE7 kit, ATL LTE18 kit, ATL 5G R16, LAMP 5G R16
+Planned (20): Chateau LTE6-US, Chateau LTE7, Chateau LTE7 ax, Chateau LTE18 ax, Chateau PRO ax, cAP LTE12 ax, wAP R, wAP LTE kit, wAP ax LTE7 kit, LtAP mini, LtAP mini LTE kit, LtAP LTE7 kit, SXT LTE7 kit, SXTsq Embedded LTE4, SXTsq Embedded LTE4 Global, LHG LTE18 kit, LHGG LTE7 kit, ATL LTE18 kit, ATL 5G R16, LAMP 5G R16
 
 </details>
 
-### IoT
+<details>
+<summary><b>IoT</b> &nbsp;·&nbsp; 1</summary>
 
 | Model | Added |
 |---|---|
 | KNOT LR9G (RB924iR-2nD-BT5&BG770A&R11e-LR9G) | v1.5 |
 
-<details><summary>Planned: 16</summary>
-
-KNOT, KNOT Embedded LTE4, KNOT Embedded LTE4 Global, KNOT Gateway LR8, KNOT Gateway HL9, KNOT LR8G kit, CME Gateway, wAP LR2 kit, wAP LR8G kit, wAP LR9G kit, CLAIRÉ, CLAIRÉ Lite, TG-BT5-IN, TG-BT5-OUT, TG-LR82, TG-LR92
+Planned (16): KNOT, KNOT Embedded LTE4, KNOT Embedded LTE4 Global, KNOT Gateway LR8, KNOT Gateway HL9, KNOT LR8G kit, CME Gateway, wAP LR2 kit, wAP LR8G kit, wAP LR9G kit, CLAIRÉ, CLAIRÉ Lite, TG-BT5-IN, TG-BT5-OUT, TG-LR82, TG-LR92
 
 </details>
 
-### 60 GHz
+<details>
+<summary><b>60 GHz</b> &nbsp;·&nbsp; 1</summary>
 
 | Model | Added |
 |---|---|
 | LHG 60G (RBLHGG-60ad) | v1.5 |
 
-<details><summary>Planned: 3</summary>
-
-Cube 60Pro ac, CubeSA 60Pro ac, Wireless Wire Cube Pro
+Planned (3): Cube 60Pro ac, CubeSA 60Pro ac, Wireless Wire Cube Pro
 
 </details>
 
-### RouterBOARD
+<details>
+<summary><b>RouterBOARD</b> &nbsp;·&nbsp; 1</summary>
 
 | Model | Added |
 |---|---|
 | RB450Gx4 | v1.5 |
 
-<details><summary>Planned: 7</summary>
-
-RBM33G, RB911G-5HPnD, RB912UAG-2HPnD, RB912UAG-5HPnD, RB922UAGS-5HPacD, L11UG-5HaxD, L23UGSR-5HaxD2HaxD
+Planned (7): RBM33G, RB911G-5HPnD, RB912UAG-2HPnD, RB912UAG-5HPnD, RB922UAGS-5HPacD, L11UG-5HaxD, L23UGSR-5HaxD2HaxD
 
 </details>
 
 <!-- devices:end -->
+
+Missing a model you need? [Open an issue](https://github.com/HugoFiermein/drawio-mikrotik/issues).
+
+## Smoother draw.io with large libraries
+
+draw.io redraws every detailed SVG on each scroll and zoom frame, which gets slow with many device shapes on screen. [drawio-svg-cache](https://github.com/HugoFiermein/drawio-svg-cache) is an optional script that fixes this for the browser and the desktop app. The library works without it.
 
 ## Versions
 
