@@ -200,3 +200,12 @@ svg/<category>/   source SVGs, one file per model
 library/          built draw.io libraries, one file per category
 docs/tiles/       category tiles for this README
 ```
+
+## License
+
+Drawings and libraries: © HugoFiermein, [CC BY-SA 4.0](LICENSE).
+
+- **Using the shapes in your diagrams, documentation and presentations** (commercial work included) is free: no credit is needed on the diagram, and you may recolour or resize the shapes there.
+- **Redistributing the library or the shapes**, changed or not: credit the author with a link to this repository, say what you changed, and keep the same licence.
+
+MikroTik, RouterBOARD and the MikroTik logo are trademarks of SIA Mikrotīkls. This project is not affiliated with or endorsed by MikroTik. The licence above covers the drawings only, not the trademarks shown on the devices.

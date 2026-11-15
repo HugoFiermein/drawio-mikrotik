@@ -5,6 +5,7 @@ Versions follow `MAJOR.MINOR.PATCH`: see *Versions* in [README](README.md).
 ## [1.5.0] (unreleased)
 
 ### Library
+- Licence: CC BY-SA 4.0 (see README for what it means for diagrams); trademark notice for the MikroTik names and logo.
 - One SVG per model in `svg/<category>/`.
 - Categories: **Cloud Core Routers**, **Routers**, **Indoor Wireless**, **Switches**, **LTE/5G**, **IoT**, **60 GHz**, **RouterBOARD**.
 - Built files in `library/`: one `.xml` per category.
