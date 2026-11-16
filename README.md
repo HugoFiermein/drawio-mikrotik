@@ -14,6 +14,8 @@ Front panels drawn by hand as clean SVG: real proportions, one scale, no raster 
 </p>
 <!-- badges:end -->
 
+<p align="center"><a href="#support-the-project">Support the project</a></p>
+
 <p align="center">
 <img width="1432" height="737" alt="Library preview" src="https://github.com/user-attachments/assets/d65daaa8-cb1c-4672-a019-65bc52a37529" />
 </p>
@@ -202,6 +204,18 @@ Missing a model you need? [Open an issue](https://github.com/HugoFiermein/drawio
 ## Smoother draw.io with large libraries
 
 draw.io redraws every detailed SVG on each scroll and zoom frame, which gets slow with many device shapes on screen. [drawio-svg-cache](https://github.com/HugoFiermein/drawio-svg-cache) is an optional script that fixes this for the browser and the desktop app. The library works without it.
+
+## Support the project
+
+The library is free and stays free. If it saves you time, you can support new models with crypto:
+
+| Coin and network | Address |
+|---|---|
+| USDT on TRON (TRC20) | `TUkAd4at57htHHrRmaAysJ9uPxgEUrtuT6` |
+| Bitcoin | `bc1qgglpgr8ygww6vyp2wnzcxet7xmtg30xch0p5va` |
+| ETH or USDT on Ethereum (ERC20) / BNB Smart Chain (BEP20) | `0x1a980eAD0584E6e8084D4B21f7d329e9C1875D46` |
+
+Send each coin only through the network named next to its address: coins sent through another network are lost.
 
 ## Versions
 
