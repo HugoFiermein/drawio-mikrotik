@@ -7,14 +7,11 @@ Front panels drawn by hand as clean SVG, no raster images.
 
 <!-- badges:start -->
 <p align="center">
-<img alt="models: 45" src="https://img.shields.io/badge/models-45-2b6cb0">
-<img alt="categories: 8" src="https://img.shields.io/badge/categories-8-2b6cb0">
-<img alt="format: SVG, no raster" src="https://img.shields.io/badge/format-SVG%2C%20no%20raster-4a5568">
+<img alt="models: 45 done, 134 planned" src="https://img.shields.io/badge/models-45%20done%20%C2%B7%20134%20planned-2b6cb0">
 <a href="LICENSE"><img alt="license: CC BY-SA 4.0" src="https://img.shields.io/badge/license-CC%20BY--SA%204.0-4a5568"></a>
+<a href="#support-the-project"><img alt="Support the project" src="https://img.shields.io/badge/support%20the%20project-c2185b?logo=githubsponsors&logoColor=white"></a>
 </p>
 <!-- badges:end -->
-
-<p align="center"><a href="#support-the-project">Support the project</a></p>
 
 <!-- note:start -->
 > [!NOTE]
