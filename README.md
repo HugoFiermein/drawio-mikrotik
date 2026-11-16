@@ -16,31 +16,10 @@ Front panels drawn by hand as clean SVG: real proportions, one scale, no raster 
 
 <p align="center"><a href="#support-the-project">Support the project</a></p>
 
-<p align="center">
-<img width="1432" height="737" alt="Library preview" src="https://github.com/user-attachments/assets/d65daaa8-cb1c-4672-a019-65bc52a37529" />
-</p>
-
 <!-- note:start -->
 > [!NOTE]
 > This is the `dev` branch: a preview of the next release. Links on this page point to the files of this branch.
 <!-- note:end -->
-
-## Why this library
-
-- **Real vector.** Every device is drawn as shapes, not a photo wrapped in SVG: sharp at any zoom and only tens of kilobytes per model.
-- **One scale.** 1200 px = 210 mm (one 19″ 1U panel), so a hEX next to a CCR looks the way it does in a real rack.
-- **Drawn from the hardware.** Ports, LEDs, buttons and labels sit where they are on the actual panel.
-- **Split by category.** Load only the palettes you need.
-
-## Install
-
-### draw.io in the browser
-
-**[Open draw.io with the MikroTik libraries](https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-60ghz.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-cloud-core-routers.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-indoor-wireless.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-iot.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-lte-5g.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-routerboard.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-routers.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-switches.xml)**: one click, all categories. draw.io keeps them in the sidebar on the next visit (until browser data is cleared).
-
-### draw.io desktop
-
-Click a category to get its library file:
 
 <!-- tiles:start -->
 <p align="center">
@@ -58,6 +37,25 @@ Click a category to get its library file:
 <a href="https://github.com/HugoFiermein/drawio-mikrotik/blob/dev/library/MikroTik-routerboard.xml"><img src="docs/tiles/routerboard.svg" width="32%" alt="RouterBOARD: download MikroTik-routerboard.xml"></a>
 </p>
 <!-- tiles:end -->
+
+<p align="center"><sub>Click a category to download its draw.io library.</sub></p>
+
+## Why this library
+
+- **Real vector.** Every device is drawn as shapes, not a photo wrapped in SVG: sharp at any zoom and only tens of kilobytes per model.
+- **One scale.** 1200 px = 210 mm (one 19″ 1U panel), so a hEX next to a CCR looks the way it does in a real rack.
+- **Drawn from the hardware.** Ports, LEDs, buttons and labels sit where they are on the actual panel.
+- **Split by category.** Load only the palettes you need.
+
+## Install
+
+### draw.io in the browser
+
+**[Open draw.io with the MikroTik libraries](https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-60ghz.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-cloud-core-routers.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-indoor-wireless.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-iot.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-lte-5g.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-routerboard.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-routers.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FHugoFiermein%2Fdrawio-mikrotik%2Fdev%2Flibrary%2FMikroTik-switches.xml)**: one click, all categories. draw.io keeps them in the sidebar on the next visit (until browser data is cleared).
+
+### draw.io desktop
+
+Click a category at the top of this page to download its library file, then:
 
 1. Put the downloaded files in a folder you will keep, for example `Documents\draw.io\MikroTik`. draw.io opens them from that path every time, so do not leave them in *Downloads* if you clean it.
 2. In draw.io choose *File → Open Library…* and select the files (several at once is fine). Each file becomes its own palette in the left sidebar.
