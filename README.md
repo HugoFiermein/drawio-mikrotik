@@ -2,7 +2,7 @@
 
 <p align="center">
 <b>Vector MikroTik device library for <a href="https://www.drawio.com">draw.io</a> (diagrams.net)</b><br>
-Front panels drawn by hand as clean SVG: real proportions, one scale, no raster images.
+Front panels drawn by hand as clean SVG, no raster images.
 </p>
 
 <!-- badges:start -->
@@ -43,7 +43,6 @@ Front panels drawn by hand as clean SVG: real proportions, one scale, no raster 
 ## Why this library
 
 - **Real vector.** Every device is drawn as shapes, not a photo wrapped in SVG: sharp at any zoom and only tens of kilobytes per model.
-- **One scale.** 1200 px = 210 mm (one 19″ 1U panel), so a hEX next to a CCR looks the way it does in a real rack.
 - **Drawn from the hardware.** Ports, LEDs, buttons and labels sit where they are on the actual panel.
 - **Split by category.** Load only the palettes you need.
 
