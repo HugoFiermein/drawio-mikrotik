@@ -20,7 +20,7 @@ Versions follow `MAJOR.MINOR.PATCH`: see *Versions* in [README](README.md).
 - **LTE/5G:** Chateau LTE12 2025 (D53G-5HacD2HnD-TC&EG120K-EA, rear view with the antenna mount plate), Chateau 5G R17 ax (S53UG+5HaxD2HaxD-TC&RG650E-EU, rear view with ports and both antennas)
 - **IoT:** KNOT LR9G (RB924iR-2nD-BT5&BG770A&R11e-LR9G, port side with the RS485 terminal and the LoRa SMA connector)
 - **60 GHz:** LHG 60G (RBLHGG-60ad, front view of the dish)
-- **Switches:** CRS317-1G-16S+RM, CRS326-24G-2S+RM, FiberBox (CRS105-5S-FB, front view and inner panel)
+- **Switches:** CRS812 DDQ (CRS812-8DS-2DQ-2DDQ-RM, front panel with 400G QSFP56-DD, 200G QSFP56 and 50G SFP56 ports), CRS317-1G-16S+RM, CRS326-24G-2S+RM, FiberBox (CRS105-5S-FB, front view and inner panel)
 - **RouterBOARD:** RB450Gx4 (top view of the bare board: stylised traces, main components, PoE sticker on port 5)
 
 ### Reworked models

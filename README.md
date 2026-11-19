@@ -7,7 +7,7 @@ Front panels drawn by hand as clean SVG, no raster images.
 
 <!-- badges:start -->
 <p align="center">
-<img alt="models: 45 done, 134 planned" src="https://img.shields.io/badge/models-45%20done%20%C2%B7%20134%20planned-2b6cb0">
+<img alt="models: 46 done, 133 planned" src="https://img.shields.io/badge/models-46%20done%20%C2%B7%20133%20planned-2b6cb0">
 <a href="LICENSE"><img alt="license: CC BY-SA 4.0" src="https://img.shields.io/badge/license-CC%20BY--SA%204.0-4a5568"></a>
 <a href="#support-the-project"><img alt="Support the project" src="https://img.shields.io/badge/support%20the%20project-c2185b?logo=githubsponsors&logoColor=white"></a>
 </p>
@@ -64,7 +64,7 @@ Shapes are images with `editableCssRules`; colours can be tweaked via *Edit Styl
 ## Devices
 
 <!-- devices:start -->
-**45 models** in 8 categories, 134 more planned. Click a category to open its list.
+**46 models** in 8 categories, 133 more planned. Click a category to open its list.
 
 <details>
 <summary><b>Cloud Core Routers</b> &nbsp;·&nbsp; 11</summary>
@@ -133,16 +133,17 @@ Planned (19): hAP, hAP lite TC, hAP ac lite TC, hAP ac3, hAP ax lite, hAP ax S, 
 </details>
 
 <details>
-<summary><b>Switches</b> &nbsp;·&nbsp; 4</summary>
+<summary><b>Switches</b> &nbsp;·&nbsp; 5</summary>
 
 | Model | Added |
 |---|---|
 | CRS317-1G-16S+RM | v1.5 |
 | CRS326-24G-2S+RM | v1.5 |
+| CRS812 DDQ (CRS812-8DS-2DQ-2DDQ-RM) | v1.5 |
 | CSS326-24G-2S+RM | v1.4.1 or earlier |
 | FiberBox (CRS105-5S-FB, front and inner panel) | v1.5 |
 
-Planned (47): RB250GS, RB260GS, RB260GSP, CRS106-1C-5S, CRS109-8G-1S-2HnD-IN, CRS112-8G-4S-IN, CRS112-8P-4S-IN, CRS125-24G-1S-IN, CRS125-24G-1S-RM, CRS125-24G-1S-2HnD-IN, CRS210-8G-2S+IN, CRS212-1G-10S-1S+IN, CRS226-24G-2S+IN, CRS226-24G-2S+RM, CRS304-4XG-IN, CRS305-1G-4S+IN, CRS309-1G-8S+IN, CRS310-1G-5S-4S+IN, CRS310-8G+2S+IN, CRS312-4C+8XG-RM, CRS320-8P-8B-4S+RM, CRS326-24G-2S+IN, CRS326-24S+2Q+RM, CRS326-4C+20G+2Q+RM, CRS328-24P-4S+RM, CRS328-4C-20S-4S+RM, CRS354-48G-4S+2Q+RM, CRS354-48P-4S+2Q+RM, CRS418-8P-8G-2S+RM, CRS418-8P-8G-2S+5axQ2axQ-RM, CRS504-4XQ-IN, CRS504-4XQ-OUT, CRS510-8XS-2XQ-IN, CRS518-16XS-2XQ-RM, CRS520-4XS-16XQ-RM, CRS804 DDQ, CRS812 DDQ, CSS318-16G-2S+IN, CSS610-8G-2S+IN, CSS610-8P-2S+IN, FiberBox Plus, netFiber 9, netPower 15FR, netPower 16P, netPower Lite 7R, netPower Lite 8P, GPERx6
+Planned (46): RB250GS, RB260GS, RB260GSP, CRS106-1C-5S, CRS109-8G-1S-2HnD-IN, CRS112-8G-4S-IN, CRS112-8P-4S-IN, CRS125-24G-1S-IN, CRS125-24G-1S-RM, CRS125-24G-1S-2HnD-IN, CRS210-8G-2S+IN, CRS212-1G-10S-1S+IN, CRS226-24G-2S+IN, CRS226-24G-2S+RM, CRS304-4XG-IN, CRS305-1G-4S+IN, CRS309-1G-8S+IN, CRS310-1G-5S-4S+IN, CRS310-8G+2S+IN, CRS312-4C+8XG-RM, CRS320-8P-8B-4S+RM, CRS326-24G-2S+IN, CRS326-24S+2Q+RM, CRS326-4C+20G+2Q+RM, CRS328-24P-4S+RM, CRS328-4C-20S-4S+RM, CRS354-48G-4S+2Q+RM, CRS354-48P-4S+2Q+RM, CRS418-8P-8G-2S+RM, CRS418-8P-8G-2S+5axQ2axQ-RM, CRS504-4XQ-IN, CRS504-4XQ-OUT, CRS510-8XS-2XQ-IN, CRS518-16XS-2XQ-RM, CRS520-4XS-16XQ-RM, CRS804 DDQ, CSS318-16G-2S+IN, CSS610-8G-2S+IN, CSS610-8P-2S+IN, FiberBox Plus, netFiber 9, netPower 15FR, netPower 16P, netPower Lite 7R, netPower Lite 8P, GPERx6
 
 </details>
 
