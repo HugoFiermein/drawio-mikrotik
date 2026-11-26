@@ -16,7 +16,7 @@ Versions follow `MAJOR.MINOR.PATCH`: see *Versions* in [README](README.md).
 ### New models
 - **Cloud Core Routers:** CCR1009-7G-1C-1S+, CCR1009-7G-1C-1S+PC, CCR1009-7G-1C-PC, CCR1009-8G-1S-1S+PC, CCR1016-12G, CCR1016-12G_old, CCR1016-12S-1S+, CCR1036-12G-4S, CCR1036-12G-4S_old, CCR2216-1G-12XS-2XQ
 - **Routers:** RB1100, RB1100AH, RB1100AHx2, RB1100AHx2-LM, RB1100Hx2, RB1200, RB2011iL-IN, RB2011iL-RM, RB2011iLS-IN, RB2011UiAS-IN, RB2011UiAS-RM, RB3011UiAS-RM, hEX (RB750Gr3), hEX S (RB760iGS), hEX S 2025 (E60iUGS), ROSE Data server (RDS2216-2XG-4S+4XS-2XQ, front and rear view), RB5009UG+S+IN (strict front view: the logo and the heatsink fins sit on the top cover and are not part of it)
-- **Indoor Wireless:** hAP lite (RB941-2nD), hAP lite (RB941-2nD, old revision with micro-USB power), hAP ac lite (RB952Ui-5ac2nD), hAP ac (RB962UiGS-5HacT2HnT), hAP ac2 (RBD52G-5HacD2HnD-TC), cAP ac (RBcAPGi-5acD2nD), wAP ac (RBwAPG-5HacD2HnD)
+- **Indoor Wireless:** hAP ax3 (C53UiG+5HPaxD2HPaxD, orthographic port-side view with antennas), hAP lite (RB941-2nD), hAP lite (RB941-2nD, old revision with micro-USB power), hAP ac lite (RB952Ui-5ac2nD), hAP ac (RB962UiGS-5HacT2HnT), hAP ac2 (RBD52G-5HacD2HnD-TC), cAP ac (RBcAPGi-5acD2nD), wAP ac (RBwAPG-5HacD2HnD)
 - **LTE/5G:** Chateau LTE12 2025 (D53G-5HacD2HnD-TC&EG120K-EA, rear view with the antenna mount plate), Chateau 5G R17 ax (S53UG+5HaxD2HaxD-TC&RG650E-EU, rear view with ports and both antennas)
 - **IoT:** KNOT LR9G (RB924iR-2nD-BT5&BG770A&R11e-LR9G, port side with the RS485 terminal and the LoRa SMA connector)
 - **60 GHz:** LHG 60G (RBLHGG-60ad, front view of the dish)
