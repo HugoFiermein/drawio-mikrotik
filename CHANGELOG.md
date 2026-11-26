@@ -24,6 +24,7 @@ Versions follow `MAJOR.MINOR.PATCH`: see *Versions* in [README](README.md).
 - **RouterBOARD:** RB450Gx4 (top view of the bare board: stylised traces, main components, PoE sticker on port 5)
 
 ### Reworked models
+- **CRS812-8DS-2DQ-2DDQ-RM**: refined the QSFP56 metal rims and latch colours, added notches to the SFP56 cage bridges, aligned the console with the management block and moved the CONSOLE/RESET labels.
 - **Old hardware revisions:** models whose case changed between revisions now come in two files, the current one under the model name and the old one with the `_old` suffix (CCR1016-12G_old and CCR1036-12G-4S_old: DB9 console on a metal plate with hex standoffs, mono LCD, single PSU; RB941-2nD_old: micro-USB power).
 - **CCR1009-7G-1C-1S+**: DB9 console redrawn in the library style (metal plate with hex standoffs, metal rim, dark D-body, 9 pins) instead of a bare trapezoid.
 - **CCR1036-12G-4S**: RJ45 console in the same colour as the Ethernet ports; "Cloud Core Router" title in Rajdhani SemiBold with a slight slant, as on the case.
