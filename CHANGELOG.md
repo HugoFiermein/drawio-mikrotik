@@ -14,6 +14,7 @@ Versions follow `MAJOR.MINOR.PATCH`: see *Versions* in [README](README.md).
 - `vector-hq/` removed: previous library files stay available in releases v1.2–v1.4.1.
 
 ### New models
+- **RB5009UPr+S+IN:** strict front view with the PoE IN/OUT legend and bracket across all eight Ethernet ports.
 - **RB4011iGS+RM:** strict front view without rack ears or feet, 10 Ethernet ports and SFP+.
 - **Cloud Core Routers:** CCR1009-7G-1C-1S+, CCR1009-7G-1C-1S+PC, CCR1009-7G-1C-PC, CCR1009-8G-1S-1S+PC, CCR1016-12G, CCR1016-12G_old, CCR1016-12S-1S+, CCR1036-12G-4S, CCR1036-12G-4S_old, CCR2216-1G-12XS-2XQ
 - **Routers:** RB1100, RB1100AH, RB1100AHx2, RB1100AHx2-LM, RB1100Hx2, RB1200, RB2011iL-IN, RB2011iL-RM, RB2011iLS-IN, RB2011UiAS-IN, RB2011UiAS-RM, RB3011UiAS-RM, hEX (RB750Gr3), hEX S (RB760iGS), hEX S 2025 (E60iUGS), ROSE Data server (RDS2216-2XG-4S+4XS-2XQ, front and rear view), RB5009UG+S+IN (strict front view: the logo and the heatsink fins sit on the top cover and are not part of it)
