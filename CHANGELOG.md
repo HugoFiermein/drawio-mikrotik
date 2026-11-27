@@ -14,6 +14,7 @@ Versions follow `MAJOR.MINOR.PATCH`: see *Versions* in [README](README.md).
 - `vector-hq/` removed: previous library files stay available in releases v1.2–v1.4.1.
 
 ### New models
+- **L009UiGS-RM:** strict front view with eight Ethernet ports, PoE in/out, SFP, USB and a DC input.
 - **RB5009UPr+S+OUT:** closed front view and inner port panel with cropped housing, eight PoE IN/OUT Ethernet ports, SFP+, USB and a two-pole DC terminal.
 - **RB5009UPr+S+IN:** strict front view with the PoE IN/OUT legend and bracket across all eight Ethernet ports.
 - **RB4011iGS+RM:** strict front view without rack ears or feet, 10 Ethernet ports and SFP+.
