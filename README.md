@@ -7,7 +7,7 @@ Front panels drawn by hand as clean SVG, no raster images.
 
 <!-- badges:start -->
 <p align="center">
-<img alt="models: 50 done, 129 planned" src="https://img.shields.io/badge/models-50%20done%20%C2%B7%20129%20planned-2b6cb0">
+<img alt="models: 51 done, 128 planned" src="https://img.shields.io/badge/models-51%20done%20%C2%B7%20128%20planned-2b6cb0">
 <a href="LICENSE"><img alt="license: CC BY-SA 4.0" src="https://img.shields.io/badge/license-CC%20BY--SA%204.0-4a5568"></a>
 <a href="#support-the-project"><img alt="Support the project" src="https://img.shields.io/badge/support%20the%20project-c2185b?logo=githubsponsors&logoColor=white"></a>
 </p>
@@ -64,7 +64,7 @@ Shapes are images with `editableCssRules`; colours can be tweaked via *Edit Styl
 ## Devices
 
 <!-- devices:start -->
-**50 models** in 8 categories, 129 more planned. Click a category to open its list.
+**51 models** in 8 categories, 128 more planned. Click a category to open its list.
 
 <details>
 <summary><b>Cloud Core Routers</b> &nbsp;·&nbsp; 11</summary>
@@ -88,7 +88,7 @@ Planned (9): CCR1036-8G-2S+, CCR1036-12G-4S-EM, CCR1036-8G-2S+EM, CCR1072-1G-8S+
 </details>
 
 <details>
-<summary><b>Routers</b> &nbsp;·&nbsp; 19</summary>
+<summary><b>Routers</b> &nbsp;·&nbsp; 20</summary>
 
 | Model | Added |
 |---|---|
@@ -108,11 +108,12 @@ Planned (9): CCR1036-8G-2S+, CCR1036-12G-4S-EM, CCR1036-8G-2S+EM, CCR1072-1G-8S+
 | RB4011iGS+RM | v1.5 |
 | RB5009UG+S+IN | v1.5 |
 | RB5009UPr+S+IN | v1.5 |
+| RB5009UPr+S+OUT (front and inner panel) | v1.5 |
 | hEX (RB750Gr3) | v1.5 |
 | hEX S (RB760iGS) | v1.5 |
 | ROSE Data server (RDS2216-2XG-4S+4XS-2XQ, front and rear) | v1.5 |
 
-Planned (11): RB1000, RB1000U, RB1100AHx4, RB1100AHx4 Dude Edition, RB5009UPr+S+OUT, L009UiGS-RM, hEX lite, hEX PoE lite, hEX PoE, hEX refresh, PowerBox Pro
+Planned (10): RB1000, RB1000U, RB1100AHx4, RB1100AHx4 Dude Edition, L009UiGS-RM, hEX lite, hEX PoE lite, hEX PoE, hEX refresh, PowerBox Pro
 
 </details>
 
