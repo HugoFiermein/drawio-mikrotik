@@ -7,7 +7,7 @@ Front panels drawn by hand as clean SVG, no raster images.
 
 <!-- badges:start -->
 <p align="center">
-<img alt="models: 53 done, 126 planned" src="https://img.shields.io/badge/models-53%20done%20%C2%B7%20126%20planned-2b6cb0">
+<img alt="models: 54 done, 125 planned" src="https://img.shields.io/badge/models-54%20done%20%C2%B7%20125%20planned-2b6cb0">
 <a href="LICENSE"><img alt="license: CC BY-SA 4.0" src="https://img.shields.io/badge/license-CC%20BY--SA%204.0-4a5568"></a>
 <a href="#support-the-project"><img alt="Support the project" src="https://img.shields.io/badge/support%20the%20project-c2185b?logo=githubsponsors&logoColor=white"></a>
 </p>
@@ -64,7 +64,7 @@ Shapes are images with `editableCssRules`; colours can be tweaked via *Edit Styl
 ## Devices
 
 <!-- devices:start -->
-**53 models** in 8 categories, 126 more planned. Click a category to open its list.
+**54 models** in 8 categories, 125 more planned. Click a category to open its list.
 
 <details>
 <summary><b>Cloud Core Routers</b> &nbsp;·&nbsp; 11</summary>
@@ -119,7 +119,7 @@ Planned (9): RB1000, RB1000U, RB1100AHx4, RB1100AHx4 Dude Edition, hEX lite, hEX
 </details>
 
 <details>
-<summary><b>Indoor Wireless</b> &nbsp;·&nbsp; 11</summary>
+<summary><b>Indoor Wireless</b> &nbsp;·&nbsp; 12</summary>
 
 | Model | Added |
 |---|---|
@@ -127,6 +127,7 @@ Planned (9): RB1000, RB1000U, RB1100AHx4, RB1100AHx4 Dude Edition, hEX lite, hEX
 | hAP ax3 (C53UiG+5HPaxD2HPaxD) | v1.5 |
 | L009UiGS-2HaxD-IN | v1.5 |
 | RB2011UiAS-2HnD-IN | v1.4.1 or earlier |
+| RB4011iGS+5HacQ2HnD-IN | v1.5 |
 | hAP lite (RB941-2nD, plus old revision) | v1.5 |
 | RB951Ui-2HnD | v1.4.1 or earlier |
 | hAP ac lite (RB952Ui-5ac2nD) | v1.5 |
@@ -135,7 +136,7 @@ Planned (9): RB1000, RB1000U, RB1100AHx4, RB1100AHx4 Dude Edition, hEX lite, hEX
 | hAP ac2 (RBD52G-5HacD2HnD-TC) | v1.5 |
 | wAP ac (RBwAPG-5HacD2HnD) | v1.5 |
 
-Planned (16): hAP, hAP lite TC, hAP ac lite TC, hAP ac3, hAP ax lite, hAP ax S, hAP be lite, hAP be3 Media, cAP, cAP lite, cAP XL ac, cAP ax, mAP, mAP lite, wAP ax, RB4011iGS+5HacQ2HnD-IN
+Planned (15): hAP, hAP lite TC, hAP ac lite TC, hAP ac3, hAP ax lite, hAP ax S, hAP be lite, hAP be3 Media, cAP, cAP lite, cAP XL ac, cAP ax, mAP, mAP lite, wAP ax
 
 </details>
 
